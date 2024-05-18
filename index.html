@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sorting Hat</title>
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <canvas id="myCanvas"></canvas>
+    <div id="buttons-container" class="d-flex justify-content-center mt-3">
+        <button id="gryffindor-button" class="btn btn-danger mx-2">Gryffindor</button>
+        <button id="hufflepuff-button" class="btn btn-warning mx-2">Hufflepuff</button>
+        <button id="ravenclaw-button" class="btn btn-primary mx-2">Ravenclaw</button>
+        <button id="slytherin-button" class="btn btn-success mx-2">Slytherin</button>
+    </div>
+    <div id="tooltip" class="tooltip bs-tooltip-top" role="tooltip">
+        <div class="arrow"></div>
+        <div class="tooltip-inner">
+            <p id="hp"></p>
+            <p id="armor"></p>
+            <p id="magic"></p>
+            <p id="intelligence"></p>
+            <h3>Special Attribute coming soon</h3>
+        </div>
+    </div>
+    <script type="module" src="./src/main.ts"></script>
+</body>
+</html>

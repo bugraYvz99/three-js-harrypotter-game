@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sorting Hat Fan Art
+* source:	https://sketchfab.com/3d-models/sorting-hat-fan-art-a85bee5713bc4535813ec78bdeb7b3f7
+* author:	Arham Mustafa Chaudhry (https://sketchfab.com/ratx1)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sorting Hat Fan Art" (https://sketchfab.com/3d-models/sorting-hat-fan-art-a85bee5713bc4535813ec78bdeb7b3f7) by Arham Mustafa Chaudhry (https://sketchfab.com/ratx1) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
